@@ -12,7 +12,7 @@ use \Exception;
 use \InvalidArgumentException;
 use RuntimeException;
 
-final class Client implements ConnectorInterface
+class Client implements ConnectorInterface
 {
     /**
      *
